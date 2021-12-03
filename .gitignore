@@ -6,6 +6,7 @@
 build/
 out/
 mappings_official/
+namedSrc/
 
 # idea
 .idea/
@@ -13,3 +14,10 @@ mappings_official/
 *.iws
 *.ipr
 *.jar
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
